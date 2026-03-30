@@ -7,6 +7,9 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
 <p>
   <img src="https://img.shields.io/badge/Ali_Abid-blue?style=flat" alt="Ali Abid">
   <img src="https://img.shields.io/badge/oa__abid@esi.dz-802D2D?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.linkedin.com/in/ali-abid-344701335/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
