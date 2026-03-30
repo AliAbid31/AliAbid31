@@ -43,9 +43,9 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAbid31&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliAbid31&show_icons=true&theme=tokyonight&count_private=true" alt="AliAbid31's stats" />
+</div>
 
 ---
 
