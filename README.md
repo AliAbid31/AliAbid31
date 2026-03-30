@@ -41,7 +41,6 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
 
 ---
 
-## 📊 My GitHub Stats
 
 ## 📊 My GitHub Stats
 
