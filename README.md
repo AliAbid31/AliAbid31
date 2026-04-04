@@ -46,7 +46,16 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Google%20Antigravity-9C27B0?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyAxMmg0djhsMTAtMTBoLTRsMy0zeiIvPjwvc3ZnPg==" alt="Google Antigravity">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="100%" x2="0%" y2="0%">
+        <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#4CAF50;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FF5722;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path fill="url(#grad1)" d="M12 2C9.5 2 7.5 5 6.5 8C5.5 11 4 18 4 18C4 18 5 19 6 19C7 19 8.5 16 9.5 14C10.5 12 11.5 12 12 12C12.5 12 13.5 12 14.5 14C15.5 16 17 19 18 19C19 19 20 18 20 18C20 18 18.5 11 17.5 8C16.5 5 14.5 2 12 2Z"/>
+  </svg>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
 </p>
 
