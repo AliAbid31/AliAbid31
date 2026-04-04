@@ -46,7 +46,17 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Antigravity-white?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZDEiIHgxPSIwJSIgeTE9IjEwMCUiIHgyPSIwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzIxOTZGMztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM0Q0FGNTA7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6I0ZGNTcyMjtzdG9wLW9wYWNpdHk6MSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxwYXRoIGZpbGw9InVybCgjZ3JhZDEpIiBkPSJNMTIgMkM5LjUgMiA3LjUgNSA2LjUgOEM1LjUgMTEgNCAxOCA0IDE4QzQgMTggNSAxOSA2IDE9QzcgMTkgOC41IDE2IDkuNSAxNEMxMC41IDEyIDExLjUgMTIgMTIgMTJDMTIuNSAxMiAxMy41IDEyIDE0LjUgMTRDMTUuNSAxNiAxNyAxOSAxOCAxOUMxOSAxOSAyMCAxOCAyMCAxOEMyMCAxOCAxOC41IDExIDE3LjUgOEMxNi41IDUgMTQuNSAyIDEyIDJaIi8+Cjwvc3ZnPg==" alt="Antigravity">
+  <img src="https://img.shields.io/badge/Antigravity-white?style=flat" alt="Antigravity">
+  <svg width="20" height="20" viewBox="0 0 512 512" style="vertical-align: middle; margin-left: -75px; margin-right: 55px;">
+    <defs>
+      <linearGradient id="g" x1="0" y1="512" x2="0" y2="0">
+        <stop offset="0%" stop-color="#2196F3"/>
+        <stop offset="50%" stop-color="#4CAF50"/>
+        <stop offset="100%" stop-color="#FF5722"/>
+      </linearGradient>
+    </defs>
+    <path fill="url(#g)" d="M256 32C192 32 140 128 116 208C92 288 48 480 48 480C48 480 80 512 112 512C144 512 192 400 224 336C256 272 288 272 304 272C320 272 352 272 384 336C416 400 464 512 496 512C528 512 560 480 560 480C560 480 516 288 492 208C468 128 416 32 256 32Z"/>
+  </svg>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
 </p>
 
