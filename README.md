@@ -36,6 +36,7 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
   
   <!-- IA & Design -->
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/google_colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/fastapi-05998B?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
