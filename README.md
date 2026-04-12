@@ -59,6 +59,7 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
     </defs>
     <path fill="url(#g)" d="M256 32C192 32 140 128 116 208C92 288 48 480 48 480C48 480 80 512 112 512C144 512 192 400 224 336C256 272 288 272 304 272C320 272 352 272 384 336C416 400 464 512 496 512C528 512 560 480 560 480C560 480 516 288 492 208C468 128 416 32 256 32Z"/>
   </svg>
+  <img src="https://img.shields.io/badge/hugging_face-FF9D00?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
 </p>
 
