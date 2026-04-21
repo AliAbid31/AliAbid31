@@ -22,46 +22,35 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
 
 ---
 
-## 💻 Top Technologies
+## 💻 Top Technologies and Tools
 
-<p align="left">
-  <!-- Langages & Frameworks -->
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white" alt="C">
-  
-  <!-- IA & Design -->
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/google_colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/fastapi-05998B?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
-  
-  <!-- Outils & Base de données -->
-  <img src="https://img.shields.io/badge/sql-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Antigravity-white?style=flat" alt="Antigravity">
-  <svg width="20" height="20" viewBox="0 0 512 512" style="vertical-align: middle; margin-left: -75px; margin-right: 55px;">
-    <defs>
-      <linearGradient id="g" x1="0" y1="512" x2="0" y2="0">
-        <stop offset="0%" stop-color="#2196F3"/>
-        <stop offset="50%" stop-color="#4CAF50"/>
-        <stop offset="100%" stop-color="#FF5722"/>
-      </linearGradient>
-    </defs>
-    <path fill="url(#g)" d="M256 32C192 32 140 128 116 208C92 288 48 480 48 480C48 480 80 512 112 512C144 512 192 400 224 336C256 272 288 272 304 272C320 272 352 272 384 336C416 400 464 512 496 512C528 512 560 480 560 480C560 480 516 288 492 208C468 128 416 32 256 32Z"/>
-  </svg>
-  <img src="https://img.shields.io/badge/hugging_face-FF9D00?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-</p>
+### 🌐 Frontend Tools
+- <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" width="20"> **React**
+- <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" width="20"> **Next.js**
+- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="20"> **JavaScript**
+- <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" width="20"> **TypeScript**
+- <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" width="20"> **Figma**
+
+### ⚙️ Backend Tools
+- <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" width="20"> **Python**
+- <img src="https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white" width="20"> **Java**
+- <img src="https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white" width="20"> **Express.js**
+- <img src="https://img.shields.io/badge/fastapi-05998B?style=flat&logo=fastapi&logoColor=white" width="20"> **FastAPI**
+- <img src="https://img.shields.io/badge/sql-4479A1?style=flat&logo=mysql&logoColor=white" width="20"> **SQL**
+- <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" width="20"> **MongoDB**
+
+### 🚀 DevOps & Tools
+- <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" width="20"> **Git**
+- <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" width="20"> **GitHub**
+- <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" width="20"> **VS Code**
+- <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" width="20"> **Postman**
+
+### 🤖 AI & ML Tools
+- <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" width="20"> **PyTorch**
+- <img src="https://img.shields.io/badge/hugging_face-FF9D00?style=flat&logo=huggingface&logoColor=white" width="20"> **Hugging Face**
+- <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" width="20"> **Kaggle**
+- <img src="https://img.shields.io/badge/google_colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" width="20"> **Google Colab**
+- <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" width="20"> **Jupyter**
 
 ---
 
