@@ -10,6 +10,9 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
   <a href="https://www.linkedin.com/in/ali-abid-344701335/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://www.kaggle.com/alikaggaventador31">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
 </p>
 
 ---
