@@ -20,7 +20,7 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
 ## 🛠 What I currently do
 
 - 🔭 I'm currently learning how to build full stack web and mobile applications.
-- 💬 I'm also very interested in AI and Data especially in Computer Vision.
+- 💬 I'm also very interested in AI and Data in Computer Vision and NLP.
 - 🚘 I'm a big cars enthusiast also since my childhood.
 
 ---
