@@ -14,8 +14,8 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=AliAbid31)
 
+![Profile views](https://komarev.com/ghpvc/?username=AliAbid31)
 ---
 
 ## 🛠 What I currently do
