@@ -15,7 +15,6 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
   </a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=AliAbid31)
 ---
 
 ## 🛠 What I currently do
