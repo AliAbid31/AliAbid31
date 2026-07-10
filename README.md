@@ -28,6 +28,7 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
 ## 💻 Top Technologies and Tools
 
 ### 🌐 Frontend Tools
+- <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" width="20"> **Flutter**
 - <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" width="20"> **React**
 - <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" width="20"> **Next.js**
 - <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="20"> **JavaScript**
