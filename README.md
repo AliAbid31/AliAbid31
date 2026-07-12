@@ -42,6 +42,7 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
 - <img src="https://img.shields.io/badge/fastapi-05998B?style=flat&logo=fastapi&logoColor=white" width="20"> **FastAPI**
 - <img src="https://img.shields.io/badge/sql-4479A1?style=flat&logo=mysql&logoColor=white" width="20"> **SQL**
 - <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" width="20"> **MongoDB**
+- <img src="https://img.shields.io/badge/supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" width="20"> **Supabase**
 
 ### 🚀 DevOps & Tools
 - <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" width="20"> **Git**
