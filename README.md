@@ -47,6 +47,7 @@ I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Alger
 ### 🚀 DevOps & Tools
 - <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" width="20"> **Git**
 - <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" width="20"> **GitHub**
+- <img src="https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=netlify&logoColor=white" width="20"> **Netlify**
 - <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" width="20"> **VS Code**
 - <img src="https://img.shields.io/badge/Antigravity-white?style=flat" width="20"> ***Antigravity***
   <svg width="20" height="20" viewBox="0 0 512 512" style="vertical-align: middle; margin-left: -75px; margin-right: 55px;">
