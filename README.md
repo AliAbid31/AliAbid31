@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ali Abid currently in my 2nd year at ESI Algiers (Oued Smar, Algiers, Algeria)
+I am Ali Abid currently in my 3rd year at ESI Algiers (Oued Smar, Algiers, Algeria)
 
 # 🚀 Reach me out!
 
