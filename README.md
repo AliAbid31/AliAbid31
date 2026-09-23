@@ -64,6 +64,7 @@ I am Ali Abid currently in my 3rd year at ESI Algiers (Oued Smar, Algiers, Alger
 
 ### 🤖 AI & ML Tools
 - <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" width="20"> **PyTorch**
+- <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" width="20"> **LangChain**
 - <img src="https://img.shields.io/badge/hugging_face-FF9D00?style=flat&logo=huggingface&logoColor=white" width="20"> **Hugging Face**
 - <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" width="20"> **Kaggle**
 - <img src="https://img.shields.io/badge/google_colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" width="20"> **Google Colab**
